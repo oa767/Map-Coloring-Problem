@@ -1,0 +1,6 @@
+NSW = B
+NT = B
+Q = G
+SA = R
+WA = G
+V = G
